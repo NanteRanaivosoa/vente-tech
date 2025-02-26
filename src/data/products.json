@@ -19,6 +19,27 @@
       "price": 300000,
       "image": "https://via.placeholder.com/150",
       "description": "Qualité sonore exceptionnelle, réduction de bruit active."
-    }
+    },
+    {
+        "id": 4,
+        "title": "Ordinateur Portable HP EliteBook",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/150",
+        "description": "PC portable performant avec Intel Core i5, 8GB RAM, 256GB SSD."
+      },
+      {
+        "id": 5,
+        "title": "Smartphone Samsung Galaxy S20",
+        "price": 1200000,
+        "image": "https://via.placeholder.com/150",
+        "description": "Écran AMOLED, 128GB de stockage, batterie longue durée."
+      },
+      {
+        "id": 6,
+        "title": "Casque Audio Bluetooth Sony",
+        "price": 300000,
+        "image": "https://via.placeholder.com/150",
+        "description": "Qualité sonore exceptionnelle, réduction de bruit active."
+      }
   ]
   
