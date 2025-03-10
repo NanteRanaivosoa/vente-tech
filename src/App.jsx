@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Catalog from "./pages/Catalog";
 import ProductDetail from "./pages/productDetail";
+import Contact from "./pages/Contact";
 import { FavoritesProvider } from "./context/FavoritesContext";
 import Favorites from "./pages/Favorites";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -18,6 +19,7 @@ const App = () => {
           <Route path="/catalog" element={<Catalog />} />
           <Route path="/product/:id" element={<ProductDetail />} />
           <Route path="/favorites" element={<Favorites />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
     </FavoritesProvider>
