@@ -1,0 +1,30 @@
+.product-detail {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 400px;
+  }
+  
+  .product-detail img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .price {
+    font-size: 1.5rem;
+    color: #007bff;
+    font-weight: bold;
+  }
+  .fav-btn {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #ff4757;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .fav-btn:hover {
+    background-color: #e84118;
+  }
+  

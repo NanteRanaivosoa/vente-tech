@@ -3,14 +3,14 @@
       "id": 1,
       "title": "Ordinateur Portable HP EliteBook",
       "price": 1500000,
-      "image": "https://via.placeholder.com/150",
+      "image": "/images/Lenovo x13.png",
       "description": "PC portable performant avec Intel Core i5, 8GB RAM, 256GB SSD."
     },
     {
       "id": 2,
       "title": "Smartphone Samsung Galaxy S20",
       "price": 1200000,
-      "image": "https://via.placeholder.com/150",
+      "image": "/images/2.png",
       "description": "Écran AMOLED, 128GB de stockage, batterie longue durée."
     },
     {
